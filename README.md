@@ -58,6 +58,7 @@ Firebase hosting files:
 ├── .firebaserc...
 
 
+HAD TO REINSTALL GIT SO JUST DOING A CHECK BY PUSHING TO THIS DEMO REPO
 ```
 
 
